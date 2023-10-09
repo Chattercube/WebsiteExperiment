@@ -7,7 +7,7 @@ const route = (event) => {
   
 const routes = {
     404: "/pages/home/home.html",
-    "/": "/pages/home/home.html",
+    "/": "https://chattercube.github.io/WebsiteExperiment/pages/home/home.html",
     "/home": "/pages/home/home.html",
     "/test2": "/pages/test2/test2.html"
 };

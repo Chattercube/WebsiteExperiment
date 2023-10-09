@@ -12,7 +12,7 @@ const routes = {
 		description: "This is the home page",
 	},
 	about: {
-		template: "/templates/about.html",
+		template: "/pages/test2/test2.html",
 		title: "About Us | " + pageTitle,
 		description: "This is the about page",
 	},
